@@ -4,7 +4,7 @@ import setuptools
 
 setuptools.setup(
     name="netron",
-    version="7.6.4",
+    version="7.6.5",
     description="Viewer for neural network, deep learning, and machine learning models",
     long_description=
         'Netron is a viewer for neural network, deep learning, and machine learning models.\n\n'

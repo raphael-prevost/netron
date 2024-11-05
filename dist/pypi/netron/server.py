@@ -15,7 +15,7 @@ import time
 import webbrowser
 import urllib.parse
 
-__version__ = '7.6.4'
+__version__ = '7.6.5'
 
 class _ContentProvider: # pylint: disable=too-few-public-methods
     data = bytearray()
